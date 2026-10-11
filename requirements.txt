@@ -1,0 +1,9 @@
+streamlit>=1.38
+pymupdf>=1.24.3
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+anthropic>=0.40
+google-genai>=1.0

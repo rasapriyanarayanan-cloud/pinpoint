@@ -1,0 +1,4 @@
+question,expected,answerable
+REPLACE with a question whose answer is in your PDF,keyword1|keyword2,yes
+REPLACE with another answerable question (try one in Tamil),keyword,yes
+REPLACE with a question the PDF does NOT answer (for example about a different topic),,no
